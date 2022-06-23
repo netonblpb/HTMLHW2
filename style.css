@@ -1,3 +1,18 @@
-h1, h2 {
+h1, h2, .let {
     color:  darkred;
+}
+
+.button {
+    width: 150px;
+    height: 25px;
+    background-color: darkblue;
+    color: gold;
+    font-weight: 900;
+}
+
+.ya {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    line-height: 25px;
 }
